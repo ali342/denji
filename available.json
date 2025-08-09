@@ -1,0 +1,185 @@
+{
+    "status": true,
+    "countries": [
+        {
+            "id": "63cf9a25c78f494840f05187a0c79eb2",
+            "name": "اليمن 🇾🇪",
+            "price_buyer": "1",
+            "code": "YE"
+        },
+        {
+            "id": "fbe46383db390907541a234bec7f2424",
+            "name": "مصر 🇪🇬",
+            "price_buyer": "0.55",
+            "code": "EG"
+        },
+        {
+            "id": "560e51228bc1672591fd8833265b6234",
+            "name": "العراق 🇮🇶",
+            "price_buyer": "1.1",
+            "code": "IQ"
+        },
+        {
+            "id": "5b61a1b298a0d06efa6933a97e68d763",
+            "name": "الأرجنتين 🇦🇷",
+            "price_buyer": "1",
+            "code": "AR"
+        },
+        {
+            "id": "195dc214249dab3c31906b4b9f83d503",
+            "name": "أوزبكستان 🇺🇿",
+            "price_buyer": "0.90",
+            "code": "UZ"
+        },
+        {
+            "id": "c86ee0d9d7ed3e7b4fdbf486fa6c0ebb",
+            "name": "الهند 🇮🇳",
+            "price_buyer": "0.65",
+            "code": "IN"
+        },
+        {
+            "id": "e14da64a5617a7f7260ccb29c48fa866",
+            "name": "فيتنام 🇻🇳",
+            "price_buyer": "0.85",
+            "code": "VN"
+        },
+        {
+            "id": "6848ae6f8e786062f1b23476c9ecd258",
+            "name": "غانا 🇬🇭",
+            "price_buyer": "0.80",
+            "code": "GH"
+        },
+        {
+            "id": "4f74d343f26bbd58a8cbbad2cab6a704",
+            "name": "إيران 🇮🇷",
+            "price_buyer": "0.80",
+            "code": "IR"
+        },
+        {
+            "id": "dc33066c3993e0d50896e533fd692ce0",
+            "name": "النيجر 🇳🇪",
+            "price_buyer": "0.60",
+            "code": "NE"
+        },
+        {
+            "id": "d71bdd22c8bb93b8d287dce6f46aed25",
+            "name": "باكستان 🇵🇰",
+            "price_buyer": "0.50",
+            "code": "PK"
+        },
+        {
+            "id": "3acf83834396fa1c878707132ead62b8",
+            "name": "بيرو 🇵🇪",
+            "price_buyer": "0.85",
+            "code": "PE"
+        },
+        {
+            "id": "06fa567b72d78b7e3ea746973fbbd1d5",
+            "name": "أفغانستان 🇦🇫",
+            "price_buyer": "0.70",
+            "code": "AF"
+        },
+        {
+            "id": "38f99abbc1d339c277c0669e7bc373c0",
+            "name": "السودان 🇸🇩",
+            "price_buyer": "0.65",
+            "code": "SD"
+        },
+        {
+            "id": "bf7410a9ee723b715ee14837f2328888",
+            "name": "نيجيريا 🇳🇬",
+            "price_buyer": "0.40",
+            "code": "NG"
+        },
+        {
+            "id": "1c2903397d8833382673bab22aa8b937",
+            "name": "الصين 🇨🇳",
+            "price_buyer": "1.2",
+            "code": "CN"
+        },
+        {
+            "id": "42983b05e2f2cc22822e30beb7bdd668",
+            "name": "كولومبيا 🇨🇴",
+            "price_buyer": "0.55",
+            "code": "CO"
+        },
+        {
+            "id": "c2d75724334cab079503451aab65ba04",
+            "name": "ليبيا 🇱🇾",
+            "price_buyer": "0.90",
+            "code": "LY"
+        },
+        {
+            "id": "a0137b712fd26c429ccd6a13541b538d",
+            "name": "فيجي 🇫🇯",
+            "price_buyer": "1.1",
+            "code": "FJ"
+        },
+        {
+            "id": "1d7b33fc26ca22c2011aaa97fecc43d8",
+            "name": "كوستاريكا 🇨🇷",
+            "price_buyer": "0.70",
+            "code": "CR"
+        },
+        {
+            "id": "06f6a489209115c5cef3f45036aad3ec",
+            "name": "بنما 🇵🇦",
+            "price_buyer": "0.80",
+            "code": "PA"
+        },
+        {
+            "id": "bfbebc0782222b0f8f991f1405ec537d",
+            "name": "عمان 🇴🇲",
+            "price_buyer": "1.8",
+            "code": "OM"
+        },
+        {
+            "id": "cd37b867bc72de7092be76ffdd85630c",
+            "name": "الكويت 🇰🇼",
+            "price_buyer": "4.5",
+            "code": "KW"
+        },
+        {
+            "id": "87a47565be4714701a8bc2354cbaea36",
+            "name": "بنغلاديش 🇧🇩",
+            "price_buyer": "0.35",
+            "code": "BD"
+        },
+        {
+            "id": "2c64c5cf613d8b9f4f7f3980d29aca10",
+            "name": "أنغولا 🇦🇴",
+            "price_buyer": "0.45",
+            "code": "AO"
+        },
+        {
+            "id": "fa3c7f2b5daea5f9e813128f962e6ec4",
+            "name": "الجزائر 🇩🇿",
+            "price_buyer": "0.45",
+            "code": "DZ"
+        },
+        {
+            "id": "19d3326f3137cbadd21ce901a9bed4a7",
+            "name": "البرازيل 🇧🇷",
+            "price_buyer": "1.4",
+            "code": "BR"
+        },
+        {
+            "id": "3ba0f40775d6d6ace27ef929f5be3cdf",
+            "name": "ساحل العاج 🇨🇮",
+            "price_buyer": "0.85",
+            "code": "CI"
+        },
+        {
+            "id": "81043f8c681575bca3e4eff6afbd9db9",
+            "name": "بوتسوانا 🇧🇼",
+            "price_buyer": "0.70",
+            "code": "BW"
+        },
+        {
+            "id": "cd957338498985e538753ea8d071e0f9",
+            "name": "الغابون 🇬🇦",
+            "price_buyer": "0.75",
+            "code": "GA"
+        }
+    ]
+}
